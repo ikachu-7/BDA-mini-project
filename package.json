@@ -1,0 +1,19 @@
+{
+  "name": "bda",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Gojo Satoru",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bloom-filters": "^3.0.2",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "shortid": "^2.2.16"
+  }
+}
